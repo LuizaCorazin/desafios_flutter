@@ -48,7 +48,7 @@ Histórico de combustível para acompanhamento do preço médio por litro e rend
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 - **Linguagem:** Dart
 - **Framework:** Flutter
 - **Persistência:** Armazenamento Local
@@ -56,7 +56,7 @@ Histórico de combustível para acompanhamento do preço médio por litro e rend
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 1. Clone o repositório:
    ```bash

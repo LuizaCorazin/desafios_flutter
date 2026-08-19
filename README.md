@@ -63,15 +63,12 @@ Histórico de combustível para acompanhamento do preço médio por litro e rend
    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
 Entre na pasta do desafio que deseja testar:
 
- ```bash
 cd flutter_desafio1
 Instale as dependências:
-  ```bash
- ```bash
+
 flutter pub get
 Execute a aplicação:
- ```bash
- ```bash
+ 
 flutter run
 1. Clone o repositório:
    ```bash

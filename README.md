@@ -12,10 +12,10 @@ Aplicativo para registrar histórico de caminhadas e calcular a estimativa de ga
 * **Recursos:** Splash screen com tema escuro, listagem de registros, cadastro/edição via modal e persistência local.
 
 <p align="center">
-  <img src="images/academia/splash.png" width="180" alt="Splash Caminhadas" />
-  <img src="images/academia/home.png" width="180" alt="Home Caminhadas" />
-  <img src="images/academia/cadastro.png" width="180" alt="Cadastro Caminhadas" />
-  <img src="images/academia/dados.png" width="180" alt="Dados Caminhadas" />
+  <img src="images/academia/splash_branco.png" width="180" alt="Splash Caminhadas" />
+  <img src="images/academia/home_branco.png" width="180" alt="Home Caminhadas" />
+  <img src="images/academia/cadastro_branco.png" width="180" alt="Cadastro Caminhadas" />
+  <img src="images/academia/dados_branco.png" width="180" alt="Dados Caminhadas" />
 </p>
 
 ---

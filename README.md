@@ -31,11 +31,6 @@ Histórico de combustível para acompanhamento de custos e rendimento do veícul
 
 ---
 
-##  Tecnologias
-- Dart & Flutter
-- Dynamic Theme (Light/Dark Mode)
-- Local Storage
-
 ##  Como rodar
 1. Clone o repositório:
    ```bash
